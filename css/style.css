@@ -43,6 +43,7 @@
     background-color:white
 }
 .button:hover{
+    box-shadow: 10%;
     background-color: tomato
 }
 @media(max-width: 576px){
@@ -56,3 +57,10 @@
         /* padding: 2% 2%; */
     }
 }
+
+/* @media(max-width :865px){
+    .desktop{
+        display: none;
+        
+    }
+} */
